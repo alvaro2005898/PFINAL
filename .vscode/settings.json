@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Practica Final/lib/biblioteca11.jar",
+        "Practica Final/lib/gson-2.10.1.jar",
+        "Practica Final/lib/notion-sdk-jvm-core-1.11.1.jar"
+    ]
+}
